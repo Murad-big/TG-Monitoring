@@ -1,0 +1,25 @@
+{
+  "api_id": 12432564,
+  "api_hash": "435345335534535345353",
+  "username": "@TG_USER",
+
+  "id_users": [
+    6910692370,
+    2434215167
+  ],
+
+  "chats": [
+    "@Groupa",
+    "@another_group",
+    123456789
+  ],
+
+  "proxy": {
+    "enabled": false,
+    "hostname": "11.22.33.44",
+    "port": 1080,
+    "type": "socks5",
+    "username": "proxyuser",
+    "password": "proxypass"
+  }
+}
